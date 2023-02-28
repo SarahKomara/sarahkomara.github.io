@@ -28,10 +28,11 @@ body {
 }
 
 .button-container {
-  display: inline-block;
-}
+    display: flex;
+    justify-content: center;
+  }
 
-.button-one{
+.button-linkedIn {
     background-color: paleturquoise;
     width: 250px;
     height: 30px;
@@ -40,9 +41,11 @@ body {
     left: 10px;
     color: darkslategray;
     font-size: 18px;
+    border-width: 4px;
+    border-color: black;
 }
 
-.button-two{
+.button-Projects {
     background-color: paleturquoise;
     width: 250px;
     height: 30px;
@@ -51,4 +54,6 @@ body {
     right: 10px;
     color: darkslategray;
     font-size: 18px;
+    border-width: 4px;
+    border-color: black;
 }
