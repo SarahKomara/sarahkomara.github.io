@@ -57,12 +57,12 @@ body {
 .button-linkedIn {
     background-color: paleturquoise;
     width: 250px;
-    height: 30px;
+    height: 50px;
     position: relative;
     top: 10px;
     left: 10px;
     color: darkslategray;
-    font-size: 18px;
+    font-size: 38px;
     border-width: 4px;
     border-color: black;
 }
@@ -70,12 +70,12 @@ body {
 .button-Projects {
     background-color: paleturquoise;
     width: 250px;
-    height: 30px;
+    height: 50px;
     position: relative;
     top: 10px;
     right: 10px;
     color: darkslategray;
-    font-size: 18px;
+    font-size: 38px;
     border-width: 4px;
     border-color: black;
 }
